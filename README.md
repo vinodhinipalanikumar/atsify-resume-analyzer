@@ -63,8 +63,8 @@ An AI-powered ATS (Applicant Tracking System) Resume Analyzer that evaluates res
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/upload.png" width="45%" />
-  <img src="screenshots/result.png" width="45%" />
+  <img src="screenshot/upload.png" width="45%" />
+  <img src="screenshot/result.png" width="45%" />
 </p>
 
 ---
